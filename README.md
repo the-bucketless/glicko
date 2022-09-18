@@ -1,1 +1,1 @@
-# glicko
+# Glicko for PHF and NHL Faceoffs
